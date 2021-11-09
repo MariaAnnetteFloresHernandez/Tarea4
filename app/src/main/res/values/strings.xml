@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea4</string>
+    <string name="etiqueta1">Ingenieria en Sistemas Computacionale</string>
+    <string name="imagen1">logo</string>
+    <string name="imagen2">logo2</string>
+    <string name="imagen3">logo3</string>
+    <string name="etiqueta2">Acceso</string>
+    <string name="etiqueta3">Ingresar al Sistema</string>
+    <string name="tpass">Contraseña</string>
+    <string name="btnvalida">Validar usuario</string>
+</resources>
